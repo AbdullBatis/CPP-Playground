@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Allow tracking of .gitignore
+!.gitignore
+
+# Allow tracking of My Stirng_functions_Reference file
+!String_Functions_Reference.cpp
